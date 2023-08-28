@@ -1,0 +1,30 @@
+/* Navbar.css */
+.navbar {
+    background-color: #f8f9fa; /* Customize the background color */
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-item {
+    margin-right: 10px;
+  }
+  
+  .nav-link {
+    color: #343a40; /* Customize the link color */
+  }
+  .navbar-nav{
+    display: flex; 
+    align-items: center;
+  }
+  .logoutBtn{
+    margin-left: auto;
+  }
+  .NavMetricCheck{
+    margin-left: 55px;
+  }
+  .navImage{
+    height: 70px;
+    width: 70px;
+  }
